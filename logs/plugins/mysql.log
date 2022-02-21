@@ -1,0 +1,177 @@
+[00:04:29] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'alomity''
+[00:04:29] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'alomity''
+[00:04:29] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'alomity''
+[00:04:29] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'alomity''
+[00:05:55] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:2280)
+[00:11:47] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:2280)
+[00:12:31] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[00:13:06] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[00:14:53] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[00:16:22] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[00:19:21] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[00:20:53] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[00:21:20] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[02:53:26] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:2280)
+[03:14:51] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[03:38:24] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[03:39:31] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[03:39:56] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[03:40:42] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[03:45:35] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[13:10:19] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[13:10:21] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[13:10:23] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[13:10:25] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[13:12:03] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:2279)
+[13:26:25] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[13:29:34] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[13:29:55] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[13:30:53] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[13:44:13] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[13:46:11] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[13:46:54] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[13:54:05] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[13:54:38] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[14:08:45] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:2277)
+[14:09:44] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:2277)
+[14:20:05] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:2277)
+[14:24:06] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:2277)
+[14:25:28] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:2277)
+[14:26:01] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:2277)
+[14:26:24] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:2277)
+[14:26:27] [ERROR] cache_get_value_name_int: value 'NULL' is not a number (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:3251)
+[14:26:27] [ERROR] cache_get_value_name_int: value 'NULL' is not a number (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:3252)
+[14:26:35] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:2277)
+[14:32:10] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:2277)
+[14:33:47] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\alomitydm\gamemodes\alomitydm.pwn:2277)
+[16:09:42] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[16:09:44] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[16:09:46] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[16:09:48] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[16:21:49] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2277)
+[16:32:35] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2277)
+[16:36:56] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2277)
+[16:37:18] [ERROR] cache_get_value_name_int: value 'NULL' is not a number (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:3251)
+[16:37:18] [ERROR] cache_get_value_name_int: value 'NULL' is not a number (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:3252)
+[16:37:58] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2277)
+[16:38:02] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2277)
+[16:38:05] [ERROR] cache_get_value_name_int: value 'NULL' is not a number (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:3251)
+[16:38:05] [ERROR] cache_get_value_name_int: value 'NULL' is not a number (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:3252)
+[16:38:31] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2277)
+[16:38:33] [ERROR] cache_get_value_name_int: value 'NULL' is not a number (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:3251)
+[16:38:33] [ERROR] cache_get_value_name_int: value 'NULL' is not a number (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:3252)
+[16:38:56] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2277)
+[16:43:00] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2277)
+[16:45:05] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[16:45:05] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[16:45:05] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[16:46:45] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[16:46:45] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[16:46:45] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[17:02:03] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2288)
+[17:04:28] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[17:12:54] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[17:22:55] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[17:22:55] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[17:23:58] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[17:23:58] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[17:26:23] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[17:26:23] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[17:27:07] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[17:27:07] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[17:31:32] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[17:38:27] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[17:38:27] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[17:41:41] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2281)
+[17:41:51] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2281)
+[17:52:42] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2281)
+[18:00:40] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2281)
+[18:00:47] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2281)
+[18:01:08] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2281)
+[18:01:45] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2281)
+[18:06:49] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2281)
+[18:07:23] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2281)
+[18:12:08] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2281)
+[18:15:09] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2281)
+[18:15:42] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2281)
+[18:42:31] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2281)
+[19:06:43] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:06:43] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:07:57] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2280)
+[19:08:49] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2280)
+[19:10:27] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2280)
+[19:10:43] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2280)
+[19:11:02] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2280)
+[19:11:27] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2280)
+[19:13:08] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:13:08] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:13:18] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:13:27] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:14:37] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:14:37] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:15:42] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:15:42] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:20:28] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:20:28] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:38:02] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:39:30] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:40:16] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:40:45] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:41:29] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:41:29] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:41:41] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:43:29] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:43:29] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:44:03] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:44:03] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:44:22] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:45:41] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:45:41] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:48:17] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:48:17] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:49:51] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:49:51] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:51:19] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:51:19] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:52:38] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:52:38] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:54:06] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[19:54:06] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[20:05:01] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[20:05:01] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[21:40:39] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2305)
+[21:40:45] [ERROR] cache_get_value_name_int: value 'NULL' is not a number (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:3250)
+[21:40:45] [ERROR] cache_get_value_name_int: value 'NULL' is not a number (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:3251)
+[21:45:35] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:2300)
+[21:45:37] [ERROR] cache_get_value_name_int: value 'NULL' is not a number (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:3245)
+[21:45:37] [ERROR] cache_get_value_name_int: value 'NULL' is not a number (C:\Users\skrpn\Desktop\magenta\gamemodes\alomitydm.pwn:3246)
+[21:47:32] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[21:47:48] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[22:00:08] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[22:01:06] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[22:02:10] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[22:05:16] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[22:07:15] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[22:08:01] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[22:15:44] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[22:23:42] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[22:25:22] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[22:26:26] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[22:27:03] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[22:28:33] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[22:29:25] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[00:48:16] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[00:59:06] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[01:00:07] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[01:01:31] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[01:05:55] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[01:06:48] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[01:15:01] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[01:15:59] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[01:16:37] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[01:18:47] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[01:20:05] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[01:30:20] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[01:30:44] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[01:31:46] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
+[01:47:59] [ERROR] mysql_tquery: callback error: parameter count does not match format specifier length
